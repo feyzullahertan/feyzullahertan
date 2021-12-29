@@ -9,7 +9,7 @@
 
 
 [<img  width="22" src="https://img.icons8.com/color/2x/twitter.png" align="left" />][twitter] 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://img.icons8.com/color/2x/linkedin.png" align="left" />][linkedin]
 
 <br />
 <br />
@@ -19,12 +19,13 @@
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25" />
+<img align="left" src="https://img.icons8.com/color/2x/linux.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="25" height="25" />
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
-
 <img align="left" src="https://spark.apache.org/images/spark-logo-trademark.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25" />
+<img align="left" src="https://img.icons8.com/color/2x/mongodb.png" width="25" height="25" />
+<img align="left" src="https://img.icons8.com/color/2x/amazon-web-services.png" width="25" height="25" />
+<img align="left" src="https://img.icons8.com/color/2x/google-cloud.png" width="25" height="25" />
 
 <br />
 
