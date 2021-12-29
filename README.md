@@ -8,7 +8,7 @@
 ### Reach out to me
 
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter] 
+[<img  width="22" src="https://img.icons8.com/color/2x/twitter.png" align="left" />][twitter] 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
